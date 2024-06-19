@@ -42,8 +42,4 @@ def roman_to_int(roman):
     return total
 
 
-roman_input = input("Digite um número romano: ").upper()
 
-
-print("O número decimal equivalente é:", roman_to_int(roman_input))
-    pass
